@@ -1,0 +1,34 @@
+body {
+    color: black;
+}
+
+.wrapper {
+    height: 100%;
+    display: table;
+    width: 100%;
+    text-align: center;
+}
+
+.header {
+    display: table-row;
+    height: 1px;
+}
+
+.main {
+    height: 100%;
+    display: table;
+    width: 100%;
+}
+
+.box {
+    display: table-cell;
+  }
+  
+.sidebar {
+    width: 100px;
+}
+  
+.footer {
+    display: table-row;
+    height:1px;
+}
